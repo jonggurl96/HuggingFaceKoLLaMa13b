@@ -7,3 +7,4 @@ datasets==2.14.1
 accelerate==0.21.0
 nvidia-ml-py3==7.352.0
 pynvml==11.5.0
+bitsandbytes==0.41.0
