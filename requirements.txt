@@ -10,3 +10,5 @@ pynvml==11.5.0
 bitsandbytes==0.41.0
 optimum==1.10.1
 xformers==0.0.20
+numba==0.57.1
+gputil==1.4.0
